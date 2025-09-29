@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/Nm7UOaW.png" alt="Blinkit Sales Analysis" width="80%" />
-</p>
-
-<h1 align="center">📊 Blinkit Sales Data Analysis in Python</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" alt="Python Version" />
-  <img src="https://img.shields.io/badge/Platform-Google%20Colab-yellow?logo=google-colab" alt="Platform" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Project Status" />
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
-</p>
-
----
 
 # 📊 Blinkit Sales Data Analysis in Python
 
